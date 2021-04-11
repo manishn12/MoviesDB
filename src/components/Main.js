@@ -33,7 +33,7 @@ useEffect(() => {
     return (
 
         <div>
-        <h2 style={{color:"#fff" ,textAlign: "center" }}>Today's Most popular Movies: </h2>
+        <h2 style={{color:"#fff" ,textAlign: "center" }}>Today's Most Trending Movies : </h2>
         <h3 style={{color:"#fff"  }}>Page No: {pageNo}</h3>
         <div style={{textAlign: "center"}}>
 { pageNo>1 && 
