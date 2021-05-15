@@ -50,6 +50,7 @@ useEffect(() => {
 
 
  </div>
+<div className="d-flex justify-content-sm-center align-items-sm-center">
              {  posts.map(post => (
     
     <Card 
@@ -63,6 +64,7 @@ useEffect(() => {
     />
    
   ))}
+  </div>
  
         </div>
     )
