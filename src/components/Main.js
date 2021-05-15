@@ -40,13 +40,13 @@ useEffect(() => {
 <button className="page-button" onClick={() =>  setPageNo(pageNo - 1)
 //  {props.pageNo}
 
- }>  ← Back</button>
+ }>  « Back</button>
   }
 
  <button className="page-button"  onClick={() => setPageNo(pageNo + 1)
 //  {props.pageNo}
 
- }>Next →</button>
+ }>Next »</button>
 
 
  </div>
